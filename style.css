@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1,3;
+    margin: 12px;
+    padding: 12px;
+    
+
+}
+#Título-principal{
+color: black;
+text-transform: none;
+text-align: center;
+}
+
+
+.destaque{
+color: blue;
+
+}
+.Maiúsculo{
+    text-transform: uppercase;
+}
+
+nav a {
+    color: blueviolet;
+}
